@@ -4,10 +4,6 @@
 
 ### Local 1v1 shooter-combat game in the browser.
 
-Made with Phaser 3 + Typescript.
-Phaser : https://phaser.io/
-Typescript : https://www.typescriptlang.org/
-
 Goal is to eliminate the other player while avoiding all the bombs that fall off the sky randomly !
 You can choose the terrain and each player can choose their character.
 Being hit by a bomb or by the other player result in decreasing your life and your health bar by 20%.
